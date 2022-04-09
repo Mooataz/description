@@ -1,0 +1,15 @@
+Projet:
+
+ce site pour afficher les prix de reparation pour quelque modele de smartphone,
+exemple une personne sont samrtphone est hors garantie et va faire une reparation , 
+ne aller pas aux service pour prend ces information (perd de temps) acceder a ce site pour
+prend les information  de facons rapide.
+
+Description de site:
+
+aux page d'acceuille on a une liste des produits , dans chaque produit en a deux liens
+,liens pour afficher les prix de chaque piece d'un modele  et le prix totale en cas de plusieur pieces
+et l'autre liens vers le site originale de maison mere de ce modele qui contient une description complete 
+et les caracteristiques.
+on peut aussi de ajouter un ou des autres modele et modifier chaque produit 
+dans le liste de produit
